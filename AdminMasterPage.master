@@ -275,11 +275,27 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                         <li><a href="grids.html">Grids</a></li>
                     </ul>
                 </li>
+                <li>
+                    <a href="Manageservice.aspx">
+                        <i class="fa fa-tasks"></i>
+                        <span>Manage Service</span>
+                    </a>
+                </li>
                  <li>
                     <a href="Manageuser.aspx">
                         <i class="fa fa-user"></i>
                         <span>Manage User</span>
                     </a>
+                </li>
+                  <li class="sub-menu">
+                    <a href="javascript:;">
+                        <i class="fa fa-th"></i>
+                        <span>Manage Products</span>
+                    </a>
+                    <ul class="sub">
+                        <li><a href="ManageCategory.aspx">Manage Category</a></li>
+                        <li><a href="#">Manage Product</a></li>
+                    </ul>
                 </li>
                 <li>
                     <a href="fontawesome.html">
