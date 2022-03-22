@@ -31,15 +31,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<form id="form1" runat="server" action="#" method="post">
 		
             <asp:TextBox ID="TextBox1" runat="server" class="ggg"  placeholder="E-MAIL"></asp:TextBox>
-			
-             <asp:TextBox ID="TextBox2" runat="server" class="ggg" placeholder="PASSWORD"></asp:TextBox>
+            <asp:TextBox ID="TextBox2" runat="server" class="ggg" placeholder="PASSWORD"></asp:TextBox>
 			<span><input type="checkbox" />Remember Me</span>
 			<h6><a href="#">Forgot Password?</a></h6>
 				<div class="clearfix"></div>
         <asp:Literal ID="Literal1" runat="server"></asp:Literal>
         <asp:Button ID="Button1" runat="server" Text="Sign In" onclick="Button1_Click" />
 		</form>
-		<p>Don't Have an Account ?<a href="registration.html">Create an account</a></p>
+		<p>Don't Have an Account ?<a href="registration.aspx">Create an account</a></p>
 </div>
 </div>
 <script src="src/js/bootstrap.js"></script>

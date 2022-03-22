@@ -9,14 +9,13 @@
             <div class="col-lg-12">
                     <section class="panel">
                         <header class="panel-heading">
-                            Manage Services
+                            Manage Categories
                         </header>
                         <div class="panel-body">
                             <div class="position-center">
                              <div class="form-group">
                                     <label for="exampleInputEmail1">Category</label>
                                     <asp:TextBox ID="TextBox1" runat="server"  class="form-control" placeholder="Enter Title"></asp:TextBox>
-                              
                                 </div>
                                
                                 <div class="form-group">
@@ -25,8 +24,8 @@
                                         RepeatDirection="Horizontal">
                                         <asp:ListItem Value="1">Active</asp:ListItem>
                                         <asp:ListItem Value="0">Deactive</asp:ListItem>
+                                      
                                     </asp:RadioButtonList>
-                         
                                 </div>
                            
                                 <div class="checkbox">

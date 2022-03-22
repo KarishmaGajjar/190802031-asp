@@ -103,6 +103,8 @@
           <ul class="nav navbar-nav navbar-left pull-right" data-in="fadeInDown" data-out="fadeOutUp">
             <li class="active"><a href="index.aspx
               ">Home</a></li>
+              <li class="active"><a href="service.aspx">Services</a></li>
+           
            
            
           <!-- <li class="active"> <a href="category_page_3col.aspx" class="dropdown-toggle" data-toggle="dropdown">Shop</a>
